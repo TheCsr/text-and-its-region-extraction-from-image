@@ -1,0 +1,6 @@
+References;
+http://opencvpython.blogspot.in/2012/06/hi-this-article-is-tutorial-which-try.html
+https://docs.opencv.org/3.3.1/dd/d49/tutorial_py_contour_features.html
+http://www.academia.edu/33514973/An_Approach_To_Extract_Text_Regions_From_Scene_Image
+Extraction of text regions in natural images,Sneha Sharma
+http://hanzratech.in/2015/01/21/adaptive-thresholding.html
